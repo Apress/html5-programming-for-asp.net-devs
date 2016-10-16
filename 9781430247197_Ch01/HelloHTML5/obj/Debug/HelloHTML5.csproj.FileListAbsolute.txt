@@ -1,0 +1,10 @@
+C:\Bipin\HTML5 Programming\Chapter01\HelloHTML5\bin\HelloHTML5.dll
+C:\Bipin\HTML5 Programming\Chapter01\HelloHTML5\bin\HelloHTML5.pdb
+C:\Bipin\HTML5 Programming\Chapter01\HelloHTML5\obj\Debug\HelloHTML5.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter01\HelloHTML5\obj\Debug\HelloHTML5.dll
+C:\Bipin\HTML5 Programming\Chapter01\HelloHTML5\obj\Debug\HelloHTML5.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloHTML5\bin\HelloHTML5.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloHTML5\bin\HelloHTML5.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloHTML5\obj\Debug\HelloHTML5.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloHTML5\obj\Debug\HelloHTML5.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloHTML5\obj\Debug\HelloHTML5.pdb

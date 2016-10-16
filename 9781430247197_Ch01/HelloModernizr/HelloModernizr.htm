@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+      <title>Welcome to HTML5</title>
+      <script type="text/javascript" src="scripts/jquery-1.7.2.min.js"></script>
+      <script type="text/javascript" src="scripts/modernizr-2.5.3.js"></script>
+      <script type="text/javascript">
+          $(document).ready(function () {
+              if (Modernizr.audio) {
+                  $("#Message").append("Your browser supports the HTML5 audio tag. <br/>");
+              }
+              if (Modernizr.video) {
+                  $("#Message").append("Your browser supports the HTML5 video tag. <br/>");
+              }
+              if (Modernizr.canvas) {
+                  $("#Message").append("Your browser supports the HTML5 canvas tag. <br/>");
+              }
+              if (Modernizr.draganddrop) {
+                  $("#Message").append("Your browser supports HTML5 drag-and-drop. <br/>");
+              }
+          });
+      </script>
+  </head>
+  <body>
+      <h1>Hello HTML5!</h1>
+      <div id="Message">
+      </div>
+  </body>
+</html>

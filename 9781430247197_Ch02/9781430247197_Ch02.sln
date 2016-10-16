@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHandling", "EventHandling\EventHandling.csproj", "{DAC94602-ACCD-4303-886C-C5403E5A7A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selectors", "Selectors\Selectors.csproj", "{012F29FC-AAED-4A0B-96F7-DCF8AF8C88AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOMManipulation", "DOMManipulation\DOMManipulation.csproj", "{01F49FA3-35D4-4DE6-93A6-1B7BDC0F2EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJAXWebForm", "AJAXWebForm\AJAXWebForm.csproj", "{740E15DB-0C14-4943-B0A0-15DE98165776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AJAXMvc", "AJAXMvc\AJAXMvc.csproj", "{F944AF03-0E21-44F8-8E21-18EA37498E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012F29FC-AAED-4A0B-96F7-DCF8AF8C88AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012F29FC-AAED-4A0B-96F7-DCF8AF8C88AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012F29FC-AAED-4A0B-96F7-DCF8AF8C88AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012F29FC-AAED-4A0B-96F7-DCF8AF8C88AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F49FA3-35D4-4DE6-93A6-1B7BDC0F2EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F49FA3-35D4-4DE6-93A6-1B7BDC0F2EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F49FA3-35D4-4DE6-93A6-1B7BDC0F2EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F49FA3-35D4-4DE6-93A6-1B7BDC0F2EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{740E15DB-0C14-4943-B0A0-15DE98165776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{740E15DB-0C14-4943-B0A0-15DE98165776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{740E15DB-0C14-4943-B0A0-15DE98165776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{740E15DB-0C14-4943-B0A0-15DE98165776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC94602-ACCD-4303-886C-C5403E5A7A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC94602-ACCD-4303-886C-C5403E5A7A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC94602-ACCD-4303-886C-C5403E5A7A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC94602-ACCD-4303-886C-C5403E5A7A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F944AF03-0E21-44F8-8E21-18EA37498E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F944AF03-0E21-44F8-8E21-18EA37498E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F944AF03-0E21-44F8-8E21-18EA37498E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F944AF03-0E21-44F8-8E21-18EA37498E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

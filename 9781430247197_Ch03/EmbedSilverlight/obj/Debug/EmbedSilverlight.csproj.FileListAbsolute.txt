@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter03\EmbedSilverlight\bin\EmbedSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedSilverlight\bin\EmbedSilverlight.pdb
+C:\Bipin\HTML5 Programming\Chapter03\EmbedSilverlight\obj\Debug\EmbedSilverlight.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter03\EmbedSilverlight\obj\Debug\EmbedSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedSilverlight\obj\Debug\EmbedSilverlight.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedSilverlight\bin\EmbedSilverlight.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedSilverlight\bin\EmbedSilverlight.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedSilverlight\obj\Debug\EmbedSilverlight.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedSilverlight\obj\Debug\EmbedSilverlight.pdb

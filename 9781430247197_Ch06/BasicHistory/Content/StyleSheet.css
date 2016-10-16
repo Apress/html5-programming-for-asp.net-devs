@@ -1,0 +1,32 @@
+﻿body {
+}
+
+div {
+    padding: 5px;
+    text-align: center;
+}
+
+input {
+    width: 75px;
+}
+
+.Title {
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Description {
+    font-family: Arial;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+    padding: 10px;
+}
+
+.Image {
+    padding: 5px;
+    border: 1px solid #ff6a00;
+    text-align: center;
+}

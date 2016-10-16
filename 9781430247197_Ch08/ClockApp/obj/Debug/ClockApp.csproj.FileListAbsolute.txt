@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\bin\ClockApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\bin\ClockApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\ClockApp.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\ClockApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\ClockApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\ClockApp\bin\ClockApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\ClockApp\bin\ClockApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\ClockApp\obj\Debug\ClockApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\ClockApp\obj\Debug\ClockApp.pdb

@@ -1,0 +1,27 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs"  Inherits="Example_03.MasterPage" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+  <title>Welcome to my HTML5 web site!</title>
+  <link rel="stylesheet" type="text/css" href="StyleSheet.css" />
+    <script src="Scripts/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="Scripts/modernizr-2.5.3.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <figure>
+      <img src="images/html5.png" alt="HTML5" />
+      <br />
+      <figcaption>HTML5 rocks!</figcaption>
+    </figure>
+  </aside>
+  <section id="content" class="content">
+    <article>
+      <form id="form1" runat="server">
+      <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+      </asp:ContentPlaceHolder>
+      </form>
+    </article>
+  </section>
+</body>
+</html>

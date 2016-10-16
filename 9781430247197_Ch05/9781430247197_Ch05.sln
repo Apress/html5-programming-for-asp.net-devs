@@ -1,0 +1,280 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebFormApp", "BasicWebFormApp\BasicWebFormApp.csproj", "{88B532D9-E084-4BB8-824A-455A2EEF7C72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicMVCApp", "BasicMVCApp\BasicMVCApp.csproj", "{63AA7D17-BCCC-4CDE-A3F2-290FA692A88A}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "InputTypesHTML", "http://localhost:1122", "{2F2084F3-54A0-4BA4-AE4D-03D12AF304D8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1122"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1122"
+		SlnRelativePath = "InputTypesHTML\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1122"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1122"
+		SlnRelativePath = "InputTypesHTML\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1122"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1122"
+		SlnRelativePath = "InputTypesHTML\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1122"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1122"
+		SlnRelativePath = "InputTypesHTML\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1122"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "InputTypesHTML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1122\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1122"
+		SlnRelativePath = "InputTypesHTML\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputTypesWebForms", "InputTypesWebForms\InputTypesWebForms.csproj", "{E1835091-2506-45B0-9C3F-77E1261582E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputTypesMVC", "InputTypesMVC\InputTypesMVC.csproj", "{0C08ECF6-DAFB-4007-8D2B-3146445AAA6F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "OtherInputImprovements", "http://localhost:1372", "{AA342500-49E7-4E18-B417-3D5011332FA6}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1372"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1372"
+		SlnRelativePath = "OtherInputImprovements\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1372"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1372"
+		SlnRelativePath = "OtherInputImprovements\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1372"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1372"
+		SlnRelativePath = "OtherInputImprovements\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1372"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1372"
+		SlnRelativePath = "OtherInputImprovements\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_1372"
+		DefaultWebSiteLanguage = "Visual C#"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "OtherInputImprovements\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_1372\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/localhost_1372"
+		SlnRelativePath = "OtherInputImprovements\"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		UseIISExpress = "true"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationControlsWebForms", "ValidationControlsWebForms\ValidationControlsWebForms.csproj", "{37FE2FF6-13BC-47E6-BAA5-876B4BD233C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationHelpersMVC", "ValidationHelpersMVC\ValidationHelpersMVC.csproj", "{934C48AE-AD16-49EA-9F3F-8ADD95F30901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValidation", "CustomValidation\CustomValidation.csproj", "{281A8D9A-010A-42D1-831A-C1B6B99FFE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAppWebForms", "SampleAppWebForms\SampleAppWebForms.csproj", "{52DCF0EE-1A88-4F2D-9766-63A58425E49C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleAppMVC", "SampleAppMVC\SampleAppMVC.csproj", "{DA091245-5F07-40DE-BB71-F9A6205EC1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C08ECF6-DAFB-4007-8D2B-3146445AAA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C08ECF6-DAFB-4007-8D2B-3146445AAA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C08ECF6-DAFB-4007-8D2B-3146445AAA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C08ECF6-DAFB-4007-8D2B-3146445AAA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{281A8D9A-010A-42D1-831A-C1B6B99FFE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{281A8D9A-010A-42D1-831A-C1B6B99FFE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{281A8D9A-010A-42D1-831A-C1B6B99FFE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{281A8D9A-010A-42D1-831A-C1B6B99FFE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F2084F3-54A0-4BA4-AE4D-03D12AF304D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2084F3-54A0-4BA4-AE4D-03D12AF304D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2084F3-54A0-4BA4-AE4D-03D12AF304D8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2084F3-54A0-4BA4-AE4D-03D12AF304D8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{37FE2FF6-13BC-47E6-BAA5-876B4BD233C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FE2FF6-13BC-47E6-BAA5-876B4BD233C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FE2FF6-13BC-47E6-BAA5-876B4BD233C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FE2FF6-13BC-47E6-BAA5-876B4BD233C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52DCF0EE-1A88-4F2D-9766-63A58425E49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52DCF0EE-1A88-4F2D-9766-63A58425E49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52DCF0EE-1A88-4F2D-9766-63A58425E49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52DCF0EE-1A88-4F2D-9766-63A58425E49C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63AA7D17-BCCC-4CDE-A3F2-290FA692A88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AA7D17-BCCC-4CDE-A3F2-290FA692A88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AA7D17-BCCC-4CDE-A3F2-290FA692A88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AA7D17-BCCC-4CDE-A3F2-290FA692A88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B532D9-E084-4BB8-824A-455A2EEF7C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B532D9-E084-4BB8-824A-455A2EEF7C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B532D9-E084-4BB8-824A-455A2EEF7C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B532D9-E084-4BB8-824A-455A2EEF7C72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934C48AE-AD16-49EA-9F3F-8ADD95F30901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934C48AE-AD16-49EA-9F3F-8ADD95F30901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934C48AE-AD16-49EA-9F3F-8ADD95F30901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934C48AE-AD16-49EA-9F3F-8ADD95F30901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA342500-49E7-4E18-B417-3D5011332FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA342500-49E7-4E18-B417-3D5011332FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA342500-49E7-4E18-B417-3D5011332FA6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA342500-49E7-4E18-B417-3D5011332FA6}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DA091245-5F07-40DE-BB71-F9A6205EC1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA091245-5F07-40DE-BB71-F9A6205EC1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA091245-5F07-40DE-BB71-F9A6205EC1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA091245-5F07-40DE-BB71-F9A6205EC1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1835091-2506-45B0-9C3F-77E1261582E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1835091-2506-45B0-9C3F-77E1261582E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1835091-2506-45B0-9C3F-77E1261582E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1835091-2506-45B0-9C3F-77E1261582E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

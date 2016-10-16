@@ -1,0 +1,11 @@
+﻿CACHE MANIFEST
+# version 1.0
+
+CACHE:
+Home/Index
+Content/Site.css
+Scripts/jquery-1.6.2.js
+Scripts/modernizr-2.0.6-development-only.js
+
+FALLBACK:
+/ Home/ErrorPage

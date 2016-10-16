@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlash\bin\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlash\bin\EmbedFlashSilverlight.pdb
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlash\obj\Debug\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlash\obj\Debug\EmbedFlashSilverlight.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedFlash\bin\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedFlash\bin\EmbedFlashSilverlight.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedFlash\obj\Debug\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\EmbedFlash\obj\Debug\EmbedFlashSilverlight.pdb

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SurveyDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SurveyDbModelStoreContainer">
+    <EntitySet Name="Choices" EntityType="SurveyDbModel.Store.Choices" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Questions" EntityType="SurveyDbModel.Store.Questions" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Results" EntityType="SurveyDbModel.Store.Results" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Users" EntityType="SurveyDbModel.Store.Users" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Choices">
+    <Key>
+      <PropertyRef Name="ChoiceID" />
+    </Key>
+    <Property Name="ChoiceID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="QuestionID" Type="int" />
+    <Property Name="Choice" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Questions">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+    </Key>
+    <Property Name="QuestionID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Question" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Results">
+    <Key>
+      <PropertyRef Name="QuestionID" />
+      <PropertyRef Name="ChoiceID" />
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="QuestionID" Type="int" Nullable="false" />
+    <Property Name="ChoiceID" Type="int" Nullable="false" />
+    <Property Name="UserID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserID" />
+    </Key>
+    <Property Name="UserID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Email" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="LastName" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+</Schema>

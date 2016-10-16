@@ -1,0 +1,16 @@
+﻿CACHE MANIFEST
+# version 2.0
+
+CACHE:
+Clock.aspx
+About.aspx
+Images/HTML5.png
+StyleSheet.css
+Scripts/jquery-1.7.2.min.js
+Scripts/modernizr-2.5.3.js
+
+NETWORK:
+Scripts/Ads.js
+
+FALLBACK:
+/ ErrorPage.aspx

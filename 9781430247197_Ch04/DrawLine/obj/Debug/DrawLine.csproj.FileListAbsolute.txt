@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter04\DrawLine\bin\DrawLine.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawLine\bin\DrawLine.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawLine\obj\Debug\DrawLine.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawLine\obj\Debug\DrawLine.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawLine\obj\Debug\DrawLine.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawLine\bin\DrawLine.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawLine\bin\DrawLine.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawLine\obj\Debug\DrawLine.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawLine\obj\Debug\DrawLine.pdb

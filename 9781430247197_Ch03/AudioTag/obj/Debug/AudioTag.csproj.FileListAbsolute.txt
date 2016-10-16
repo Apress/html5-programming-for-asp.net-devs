@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter03\AudioTag\bin\AudioTag.dll
+C:\Bipin\HTML5 Programming\Chapter03\AudioTag\bin\AudioTag.pdb
+C:\Bipin\HTML5 Programming\Chapter03\AudioTag\obj\Debug\AudioTag.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter03\AudioTag\obj\Debug\AudioTag.dll
+C:\Bipin\HTML5 Programming\Chapter03\AudioTag\obj\Debug\AudioTag.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\AudioTag\bin\AudioTag.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\AudioTag\bin\AudioTag.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\AudioTag\obj\Debug\AudioTag.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\AudioTag\obj\Debug\AudioTag.pdb

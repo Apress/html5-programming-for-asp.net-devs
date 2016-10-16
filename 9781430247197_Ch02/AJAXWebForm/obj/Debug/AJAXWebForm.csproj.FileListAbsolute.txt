@@ -1,0 +1,10 @@
+C:\Bipin\HTML5 Programming\Chapter02\AJAXWebForm\bin\AJAXWebForm.dll
+C:\Bipin\HTML5 Programming\Chapter02\AJAXWebForm\bin\AJAXWebForm.pdb
+C:\Bipin\HTML5 Programming\Chapter02\AJAXWebForm\obj\Debug\AJAXWebForm.dll
+C:\Bipin\HTML5 Programming\Chapter02\AJAXWebForm\obj\Debug\AJAXWebForm.pdb
+C:\Bipin\HTML5 Programming\Chapter02\AJAXWebForm\obj\Debug\AJAXWebForm.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\AJAXWebForm\bin\AJAXWebForm.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\AJAXWebForm\bin\AJAXWebForm.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\AJAXWebForm\obj\Debug\AJAXWebForm.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\AJAXWebForm\obj\Debug\AJAXWebForm.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\AJAXWebForm\obj\Debug\AJAXWebForm.csprojResolveAssemblyReference.cache

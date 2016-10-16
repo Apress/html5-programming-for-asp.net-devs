@@ -1,0 +1,138 @@
+body {
+    font-size: .85em;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    color: #232323;
+    background-color: #fff;
+}
+
+header, footer, nav, section {
+    display: block;
+}
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+
+.Progress {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #551e1e;
+    text-align: center;
+    width: 300px;
+}
+
+.PlayList {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #551e1e;
+    text-align: left;
+    width: 300px;
+    padding: 10px;
+}
+
+.Duration {
+    font-family: Arial;
+    font-size: 10pt;
+    font-weight: bold;
+    color: #ff6a00;
+    text-align: left;
+   
+}
+
+.Button {
+    padding: 3px;
+    font-family: Arial;
+    font-size: 11pt;
+    font-weight: bold;
+    color: #fee;
+    background-color: #652c2c;
+    text-align: center;
+    width: 75px;
+}
+
+.DropDownList {
+    padding: 3px;
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+}
+
+.Speed {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #551e1e;
+    text-align: left;
+    width: 300px;
+}
+
+.Volume {
+    font-family: Arial;
+    font-size: 12pt;
+    font-weight: bold;
+    color: #551e1e;
+    text-align: left;
+    width: 300px;
+}
+
+.Range {
+    width: 300px;
+}
+
+.Video {
+    border: 2px solid #ff6a00;
+    padding: 3px;
+    width: 300px;
+}

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="UserDbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="UserDbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Users" EntityType="UserDbModel.User" />
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="DisplayName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="Email" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="Password" Type="String" MaxLength="20" Unicode="true" FixedLength="false" />
+    <Property Name="BlogUrl" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="Bio" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="CreatedDate" Type="DateTime" Precision="3" />
+    <Property Name="Age" Type="Int32" />
+    <Property Name="Income" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+</Schema>

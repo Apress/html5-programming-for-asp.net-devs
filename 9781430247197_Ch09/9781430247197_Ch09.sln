@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileAPIWebForm", "FileAPIWebForm\FileAPIWebForm.csproj", "{4D311BFE-D86D-4B56-A8FC-8F3D508812BC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DragDrop", "DragDrop\", "{92E151E7-7812-46F9-A5FD-AADB6634FDDF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "DragDrop\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDrop\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/DragDrop"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "DragDrop\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDrop\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/DragDrop"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		VWDPort = "1045"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.PhysicalPath = "DragDrop\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDrop\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.VirtualPath = "/DragDrop"
+		Release.AspNetCompiler.Debug = "False"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.PhysicalPath = "DragDrop\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\DragDrop\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.VirtualPath = "/DragDrop"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		VWDPort = "1045"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLUpload", "XMLUpload\XMLUpload.csproj", "{F9181A66-A010-4A28-B081-5851C3DA0018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D311BFE-D86D-4B56-A8FC-8F3D508812BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D311BFE-D86D-4B56-A8FC-8F3D508812BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D311BFE-D86D-4B56-A8FC-8F3D508812BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D311BFE-D86D-4B56-A8FC-8F3D508812BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E151E7-7812-46F9-A5FD-AADB6634FDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E151E7-7812-46F9-A5FD-AADB6634FDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E151E7-7812-46F9-A5FD-AADB6634FDDF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E151E7-7812-46F9-A5FD-AADB6634FDDF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F9181A66-A010-4A28-B081-5851C3DA0018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9181A66-A010-4A28-B081-5851C3DA0018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9181A66-A010-4A28-B081-5851C3DA0018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9181A66-A010-4A28-B081-5851C3DA0018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

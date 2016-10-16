@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script type="text/javascript" src="Scripts/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#txtEmail").bind("invalid", OnInvalid);
+        $("#txtAge").bind("invalid", OnInvalid);
+      });
+
+      function OnInvalid(evt) {
+        var input = evt.target;
+        var validity = input.validity;
+        var strMsg = "";
+        if (validity.typeMismatch) {
+          alert("Invalid email address");
+        }
+        if (validity.rangeOverflow) {
+          alert("Age value too big");
+        }
+        if (validity.rangeUnderflow) {
+          alert("Age value too small");
+        }
+        evt.preventDefault();
+        /*
+        $("div").append("Validity : " + validity.valid + "</br>");
+        $("div").append("Value Missing : " + validity.valueMissing + "</br>");
+        $("div").append("Type Mismatch : " + validity.typeMismatch + "</br>");
+        $("div").append("Pattern Mismatch : " + validity.patternMismatch + "</br>");
+        $("div").append("Too Long : " + validity.tooLong + "</br>");
+        $("div").append("Range Underflow : " + validity.rangeUnderflow + "</br>");
+        $("div").append("Range Overflow : " + validity.rangeOverflow + "</br>");
+        $("div").append("Step Mismatch : " + validity.stepMismatch + "</br>");
+        $("div").append("Custom Error : " + validity.customError + "</br>");
+        */
+      }
+    </script>
+
+    <style type="text/css">
+      #divErr {
+        background-color: #ffd800;
+        border: :2px solid #f00;
+      }
+    </style>
+</head>
+<body>
+  <form id="form1">
+      <table cellpadding="3">
+      <tr>
+        <td>Email :</td>
+        <td><input id="txtEmail" type="email" /></td>
+      </tr>
+      <tr>
+        <td>Age :</td>
+        <td><input id="txtAge" type="number" min="18" max="100" step="1" /></td>
+      </tr>
+    </table>
+    <input type="submit" value="Submit"/>
+    <div></div>
+  </form>
+  <div id="divErr">
+
+  </div>
+</body>
+</html>

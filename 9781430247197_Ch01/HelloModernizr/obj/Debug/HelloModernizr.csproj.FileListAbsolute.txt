@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter01\HelloModernizr\bin\HelloModernizr.dll
+C:\Bipin\HTML5 Programming\Chapter01\HelloModernizr\bin\HelloModernizr.pdb
+C:\Bipin\HTML5 Programming\Chapter01\HelloModernizr\obj\Debug\HelloModernizr.dll
+C:\Bipin\HTML5 Programming\Chapter01\HelloModernizr\obj\Debug\HelloModernizr.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloModernizr\bin\HelloModernizr.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloModernizr\bin\HelloModernizr.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloModernizr\obj\Debug\HelloModernizr.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch01\HelloModernizr\obj\Debug\HelloModernizr.pdb

@@ -1,0 +1,56 @@
+﻿body {
+}
+
+.textbox {
+    border: 1px solid #808080;
+    font-family: 'Courier New';
+    font-size: 12px;
+    padding: 3px;
+}
+
+.button {
+    width: 75px;
+    margin-top: 5px;
+}
+
+label {
+    font-family: Arial;
+    font-size: 12px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+
+legend {
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #ffd200;
+    color: #572d0f;
+    padding: 3px;
+}
+
+fieldset {
+    padding: 10px;
+    border-color: #808080;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 24px;
+}
+
+input:invalid {
+    background-color: #ffd800;
+    border: 2px solid #f00;
+}
+
+input:required {
+    background-color: #fff;
+    border: 1px solid #ff6a00;
+}
+
+select {
+     border: 1px solid #808080;
+}
+    

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClockApp", "ClockApp\ClockApp.csproj", "{1D35E8DE-7042-4B44-96FD-A1FE3DA3B22E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survey", "Survey\Survey.csproj", "{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D35E8DE-7042-4B44-96FD-A1FE3DA3B22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D35E8DE-7042-4B44-96FD-A1FE3DA3B22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D35E8DE-7042-4B44-96FD-A1FE3DA3B22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D35E8DE-7042-4B44-96FD-A1FE3DA3B22E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

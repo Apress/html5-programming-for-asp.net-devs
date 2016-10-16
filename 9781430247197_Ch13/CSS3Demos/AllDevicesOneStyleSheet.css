@@ -1,0 +1,15 @@
+﻿@media (min-device-width: 800px) {
+    body {
+        background-color:blue;
+        color:white; 
+    }
+}
+
+@media (max-width: 480px) and (orientation:portrait) {
+    body {
+        background-color:red;
+        color:white; 
+    }
+}
+
+

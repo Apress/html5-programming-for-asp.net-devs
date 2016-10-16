@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{95D43C93-5674-4FE4-8281-C92FE86A64D2}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSS3Demos</RootNamespace>
+    <AssemblyName>CSS3Demos</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AllDevicesOneStyleSheet.css" />
+    <Content Include="AttributeSubstringSelectors.aspx" />
+    <Content Include="Desktop.css" />
+    <Content Include="jquery-1.7.2.min.js" />
+    <Content Include="MediaQueryChangeCSS.aspx" />
+    <Content Include="MediaQueryChangeRule.aspx" />
+    <Content Include="MiscPseudoClasses.aspx" />
+    <Content Include="Mobile.css" />
+    <Content Include="modernizr-2.5.3.js" />
+    <Content Include="modernizr.js" />
+    <Content Include="ModernizrDetection.aspx" />
+    <Content Include="RoundedCorners.aspx" />
+    <Content Include="StatePseudoClasses.aspx" />
+    <Content Include="StructuralPseudoClasses.aspx" />
+    <Content Include="StyleSheet.css" />
+    <Content Include="Transforms.aspx" />
+    <Content Include="Transitions.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="WebFonts.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttributeSubstringSelectors.aspx.cs">
+      <DependentUpon>AttributeSubstringSelectors.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AttributeSubstringSelectors.aspx.designer.cs">
+      <DependentUpon>AttributeSubstringSelectors.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MediaQueryChangeCSS.aspx.cs">
+      <DependentUpon>MediaQueryChangeCSS.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MediaQueryChangeCSS.aspx.designer.cs">
+      <DependentUpon>MediaQueryChangeCSS.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MediaQueryChangeRule.aspx.cs">
+      <DependentUpon>MediaQueryChangeRule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MediaQueryChangeRule.aspx.designer.cs">
+      <DependentUpon>MediaQueryChangeRule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MiscPseudoClasses.aspx.cs">
+      <DependentUpon>MiscPseudoClasses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MiscPseudoClasses.aspx.designer.cs">
+      <DependentUpon>MiscPseudoClasses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModernizrDetection.aspx.cs">
+      <DependentUpon>ModernizrDetection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModernizrDetection.aspx.designer.cs">
+      <DependentUpon>ModernizrDetection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RoundedCorners.aspx.cs">
+      <DependentUpon>RoundedCorners.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RoundedCorners.aspx.designer.cs">
+      <DependentUpon>RoundedCorners.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StatePseudoClasses.aspx.cs">
+      <DependentUpon>StatePseudoClasses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StatePseudoClasses.aspx.designer.cs">
+      <DependentUpon>StatePseudoClasses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="StructuralPseudoClasses.aspx.cs">
+      <DependentUpon>StructuralPseudoClasses.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StructuralPseudoClasses.aspx.designer.cs">
+      <DependentUpon>StructuralPseudoClasses.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Transforms.aspx.cs">
+      <DependentUpon>Transforms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Transforms.aspx.designer.cs">
+      <DependentUpon>Transforms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Transitions.aspx.cs">
+      <DependentUpon>Transitions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Transitions.aspx.designer.cs">
+      <DependentUpon>Transitions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebFonts.aspx.cs">
+      <DependentUpon>WebFonts.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebFonts.aspx.designer.cs">
+      <DependentUpon>WebFonts.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:1044/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,4 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch13\CSS3Demos\bin\CSS3Demos.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch13\CSS3Demos\bin\CSS3Demos.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch13\CSS3Demos\obj\Debug\CSS3Demos.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch13\CSS3Demos\obj\Debug\CSS3Demos.pdb

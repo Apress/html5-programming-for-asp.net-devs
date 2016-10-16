@@ -1,0 +1,4 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkers\bin\BasicWebWorkers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkers\bin\BasicWebWorkers.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkers\obj\Debug\BasicWebWorkers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkers\obj\Debug\BasicWebWorkers.pdb

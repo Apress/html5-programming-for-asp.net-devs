@@ -1,0 +1,43 @@
+﻿.TextArea {
+    border: 1px solid gray;
+    padding: 10px;
+    font-family: 'Courier New';
+    font-size: 15px;
+    background-color: #f9f2f2;
+}
+
+.NormalCounter
+{
+    font-family:Arial;
+    font-size:20px;
+    color:Navy;
+}
+
+.WarningCounter
+{
+    font-family:Arial;
+    font-size:20px;
+    color:Red;
+}
+
+.HeaderRow {
+    background-color: #000;
+    color: #fff;
+    font-weight:bold;
+}
+
+.Row {
+    background-color: #dfcfcf;
+    color: #000;
+}
+
+.AlternateRow {
+    background-color: #808080;
+    color: #fff;
+}
+
+.HoverRow
+{
+    background-color:#ff6a00;
+    color:White;
+}

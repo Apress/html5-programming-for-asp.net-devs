@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\DOMManipulation\bin\DOMManipulation.dll
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\DOMManipulation\bin\DOMManipulation.pdb
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\DOMManipulation\obj\Debug\DOMManipulation.dll
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\DOMManipulation\obj\Debug\DOMManipulation.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\DOMManipulation\bin\DOMManipulation.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\DOMManipulation\bin\DOMManipulation.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\DOMManipulation\obj\Debug\DOMManipulation.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\DOMManipulation\obj\Debug\DOMManipulation.pdb

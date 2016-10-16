@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter04\DrawCurve\bin\DrawCurve.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawCurve\bin\DrawCurve.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawCurve\obj\Debug\DrawCurve.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawCurve\obj\Debug\DrawCurve.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawCurve\bin\DrawCurve.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawCurve\bin\DrawCurve.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawCurve\obj\Debug\DrawCurve.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawCurve\obj\Debug\DrawCurve.pdb

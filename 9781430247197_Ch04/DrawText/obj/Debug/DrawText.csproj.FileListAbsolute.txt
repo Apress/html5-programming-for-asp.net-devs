@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter04\DrawText\bin\DrawText.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawText\bin\DrawText.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawText\obj\Debug\DrawText.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawText\obj\Debug\DrawText.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawText\bin\DrawText.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawText\bin\DrawText.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawText\obj\Debug\DrawText.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawText\obj\Debug\DrawText.pdb

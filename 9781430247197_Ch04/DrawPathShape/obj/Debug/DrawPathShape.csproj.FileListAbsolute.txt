@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter04\DrawPathShape\bin\DrawPathShape.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawPathShape\bin\DrawPathShape.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawPathShape\obj\Debug\DrawPathShape.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawPathShape\obj\Debug\DrawPathShape.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawPathShape\bin\DrawPathShape.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawPathShape\bin\DrawPathShape.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawPathShape\obj\Debug\DrawPathShape.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawPathShape\obj\Debug\DrawPathShape.pdb

@@ -1,0 +1,15 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\XMLUpload.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\XMLUpload.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\EntityFramework.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\Microsoft.Web.Infrastructure.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.Helpers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.Mvc.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.Providers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.WebPages.Deployment.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.WebPages.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\System.Web.WebPages.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\bin\EntityFramework.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\obj\Debug\XMLUpload.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\obj\Debug\XMLUpload.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch09\XMLUpload\obj\Debug\XMLUpload.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebStorage", "SimpleWebStorage\SimpleWebStorage.csproj", "{74D9FEE7-B8B7-4E81-9A3C-53359F631AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survey", "Survey\Survey.csproj", "{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D9FEE7-B8B7-4E81-9A3C-53359F631AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D9FEE7-B8B7-4E81-9A3C-53359F631AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D9FEE7-B8B7-4E81-9A3C-53359F631AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D9FEE7-B8B7-4E81-9A3C-53359F631AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1CF42D-B71B-4BE1-807D-5FC30D67BFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

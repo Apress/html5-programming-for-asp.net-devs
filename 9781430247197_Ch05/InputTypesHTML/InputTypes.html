@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title></title>
+  <script type="text/javascript" src="Scripts/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="Scripts/modernizr-2.5.3.js"></script>
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+      if (!Modernizr.inputtypes.email) {
+        alert("This browser doesn't support email input type of HTML5!");
+      }
+
+      $("#form1").submit(function (e) {
+        alert($("#color1").val());
+        var flag = false;
+        $("input[type='tel']").each(function (i,v) {
+          var pattern = /^(\([0-9]{3}\)|[0-9]{3}-)[0-9]{3}-[0-9]{4}$/;
+          var value = $(this).val();
+          if (!value.match(pattern)) {
+            alert("Telephone no. is invalid!");
+            flag = true;
+          }
+        });
+        if (flag) {
+          e.preventDefault();
+        }
+      });
+
+    });
+  </script>
+
+</head>
+<body>
+  <form id="form1" method="post">
+    <table cellpadding="3">
+      <tr>
+        <td>Email :</td>
+        <td><input type="email" /></td>
+      </tr>
+      <tr>
+        <td>URL :</td>
+        <td><input type="url" /></td>
+      </tr>
+      <tr>
+        <td>Current Salary :</td>
+        <td><input type="number" /></td>
+      </tr>
+      <tr>
+        <td>Age :</td>
+        <td><input type="number" min="18" max="100" step="0.5" /></td>
+      </tr>
+      <tr>
+        <td>Telephone :</td>
+        <td><input type="tel" /></td>
+      </tr>
+      <tr>
+        <td>Rating :</td>
+        <td><input type="range" min="1" max="5" step="1" value="2" /></td>
+      </tr>
+      <tr>
+        <td>Date :</td>
+        <td>
+          <input type="date" min="2012-01-01" max="2012-05-30" />
+        </td>
+      </tr>
+      <tr>
+        <td>Time :</td>
+        <td>
+          <input type="time" />
+        </td>
+      </tr>
+      <tr>
+        <td>Date & Time :</td>
+        <td>
+          <input type="datetime" />
+        </td>
+      </tr>
+      <tr>
+        <td>Local Date & Time :</td>
+        <td>
+          <input type="datetime-local" />
+        </td>
+      </tr>
+      <tr>
+        <td>Week :</td>
+        <td>
+          <input type="week" />
+        </td>
+      </tr>
+      <tr>
+        <td>Month :</td>
+        <td>
+          <input type="month" />
+        </td>
+      </tr>
+      <tr>
+        <td>Color :</td>
+        <td>
+          <input id="color1" type="color" />
+        </td>
+      </tr>
+      <tr>
+        <td>Search :</td>
+        <td>
+          <input id="search1" type="search" />
+        </td>
+      </tr>
+    </table>
+    <input type="submit" value="Submit"/>
+
+  </form>
+</body>
+</html>

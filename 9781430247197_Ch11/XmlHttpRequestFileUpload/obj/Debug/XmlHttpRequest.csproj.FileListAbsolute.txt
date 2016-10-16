@@ -1,0 +1,16 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\XmlHttpRequest.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\XmlHttpRequest.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\Newtonsoft.Json.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.Formatting.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.WebRequest.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Web.Http.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Web.Http.WebHost.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\Newtonsoft.Json.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.Formatting.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Net.Http.WebRequest.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Web.Http.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\System.Web.Http.WebHost.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\obj\Debug\XmlHttpRequest.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\obj\Debug\XmlHttpRequest.pdb

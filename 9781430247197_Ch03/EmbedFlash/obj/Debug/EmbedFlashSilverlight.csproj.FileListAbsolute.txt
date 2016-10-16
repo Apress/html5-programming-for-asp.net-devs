@@ -1,0 +1,5 @@
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlashSilverlight\bin\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlashSilverlight\bin\EmbedFlashSilverlight.pdb
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlashSilverlight\obj\Debug\EmbedFlashSilverlight.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlashSilverlight\obj\Debug\EmbedFlashSilverlight.dll
+C:\Bipin\HTML5 Programming\Chapter03\EmbedFlashSilverlight\obj\Debug\EmbedFlashSilverlight.pdb

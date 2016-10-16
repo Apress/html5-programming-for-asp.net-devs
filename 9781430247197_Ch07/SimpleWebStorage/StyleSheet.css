@@ -1,0 +1,28 @@
+﻿body
+{
+    font-family:vardana;
+    font-size:14px;
+}
+
+.table 
+{
+    display: table;
+    width:300px;
+}
+
+.row 
+{
+    display: table-row;
+}
+
+.cell
+{
+    display: table-cell;
+    border: 1px solid #666666;
+    padding: 10pt;
+    width:150px
+}
+.paddedDiv
+{
+    padding:12px;
+}

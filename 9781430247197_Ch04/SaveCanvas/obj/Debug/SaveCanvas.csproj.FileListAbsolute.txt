@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter04\SaveCanvas\bin\SaveCanvas.dll
+C:\Bipin\HTML5 Programming\Chapter04\SaveCanvas\bin\SaveCanvas.pdb
+C:\Bipin\HTML5 Programming\Chapter04\SaveCanvas\obj\Debug\SaveCanvas.dll
+C:\Bipin\HTML5 Programming\Chapter04\SaveCanvas\obj\Debug\SaveCanvas.pdb
+C:\Bipin\HTML5 Programming\Chapter04\SaveCanvas\obj\Debug\SaveCanvas.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\SaveCanvas\bin\SaveCanvas.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\SaveCanvas\bin\SaveCanvas.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\SaveCanvas\obj\Debug\SaveCanvas.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\SaveCanvas\obj\Debug\SaveCanvas.pdb

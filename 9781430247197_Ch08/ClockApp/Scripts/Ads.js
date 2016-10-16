@@ -1,0 +1,1 @@
+﻿document.write("<div style='text-align:center'>This is an advertisement.</div><br/>");

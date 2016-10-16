@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\bin\EventHandling.dll
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\bin\EventHandling.pdb
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\obj\Debug\EventHandling.dll
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\obj\Debug\EventHandling.pdb
+C:\Bipin\HTML5 Programming\Chapter02\EventHandling\obj\Debug\EventHandling.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\EventHandling\bin\EventHandling.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\EventHandling\bin\EventHandling.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\EventHandling\obj\Debug\EventHandling.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\EventHandling\obj\Debug\EventHandling.pdb

@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter03\SourceElement\bin\SourceElement.dll
+C:\Bipin\HTML5 Programming\Chapter03\SourceElement\bin\SourceElement.pdb
+C:\Bipin\HTML5 Programming\Chapter03\SourceElement\obj\Debug\SourceElement.dll
+C:\Bipin\HTML5 Programming\Chapter03\SourceElement\obj\Debug\SourceElement.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\SourceElement\bin\SourceElement.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\SourceElement\bin\SourceElement.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\SourceElement\obj\Debug\SourceElement.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\SourceElement\obj\Debug\SourceElement.pdb

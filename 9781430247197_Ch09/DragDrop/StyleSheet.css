@@ -1,0 +1,49 @@
+﻿.product
+{
+    height:300px;
+    width: 150px;
+    float: left;
+    border: 2px solid #666666;
+    background-color: white;
+    padding:3px;
+    margin:5px;
+    text-align: center;
+    cursor: move;
+}
+
+.selectedproduct
+{
+    padding:3px;
+    text-align: center;
+}
+        
+.bag
+{
+    float:left;
+    padding:10px;
+    text-align: center;
+    cursor: move;
+}
+        
+.highlight
+{
+    background-color:Yellow;
+}
+
+header {
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:3px;
+}
+
+body {
+    font-family:Arial;
+    font-size:12px;
+}
+
+.cost {
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChartDbModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="ChartDbModelStoreContainer">
+    <EntitySet Name="ChartDetails" EntityType="ChartDbModel.Store.ChartDetails" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="ChartMaster" EntityType="ChartDbModel.Store.ChartMaster" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="ChartDetails">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="SectorName" Type="nvarchar" MaxLength="50" />
+    <Property Name="SectorValue" Type="decimal" />
+    <Property Name="SectorColor" Type="nchar" MaxLength="10" />
+    <Property Name="ChartId" Type="uniqueidentifier" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ChartMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" MaxLength="50" />
+    <Property Name="ImageUrl" Type="nvarchar" MaxLength="250" />
+    <Property Name="DateCreated" Type="datetime" />
+  </EntityType>
+</Schema>

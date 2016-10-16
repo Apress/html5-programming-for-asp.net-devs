@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ImageDbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ImageDbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="Images" EntityType="ImageDbModel.Image" />
+  </EntityContainer>
+  <EntityType Name="Image">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="ImageData" Type="String" MaxLength="Max" Unicode="true" FixedLength="false" />
+    <Property Name="SaveDate" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

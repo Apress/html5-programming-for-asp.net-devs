@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter03\VideoTag\bin\VideoTag.dll
+C:\Bipin\HTML5 Programming\Chapter03\VideoTag\bin\VideoTag.pdb
+C:\Bipin\HTML5 Programming\Chapter03\VideoTag\obj\Debug\VideoTag.dll
+C:\Bipin\HTML5 Programming\Chapter03\VideoTag\obj\Debug\VideoTag.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\VideoTag\bin\VideoTag.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\VideoTag\bin\VideoTag.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\VideoTag\obj\Debug\VideoTag.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch03\VideoTag\obj\Debug\VideoTag.pdb

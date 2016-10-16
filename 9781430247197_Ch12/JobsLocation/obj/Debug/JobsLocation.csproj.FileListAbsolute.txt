@@ -1,0 +1,15 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\JobsLocation.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\JobsLocation.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\EntityFramework.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\Microsoft.Web.Infrastructure.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.Helpers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.Mvc.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.Providers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.WebPages.Deployment.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.WebPages.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\System.Web.WebPages.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\bin\EntityFramework.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\obj\Debug\JobsLocation.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\obj\Debug\JobsLocation.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch12\JobsLocation\obj\Debug\JobsLocation.pdb

@@ -1,0 +1,15 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\BasicWebWorkersMVC.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\BasicWebWorkersMVC.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\EntityFramework.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.Helpers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.Mvc.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.Providers.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.WebPages.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\System.Web.WebPages.Razor.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\bin\EntityFramework.xml
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\obj\Debug\BasicWebWorkersMVC.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\obj\Debug\BasicWebWorkersMVC.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch10\BasicWebWorkersMVC\obj\Debug\BasicWebWorkersMVC.pdb

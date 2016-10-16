@@ -1,0 +1,51 @@
+﻿.container 
+{
+    width: 500px; 
+    margin: 0 auto; 
+    overflow: hidden;
+}
+
+.clock 
+{
+    width:500px; 
+    margin:0 auto; 
+    padding:5px; 
+    border:5px solid #333; 
+    color:#000; 
+}
+
+#date 
+{ 
+    font-family:Arial; 
+    font-size:25px; 
+    text-align:center; 
+}
+
+#time 
+{
+    text-align:center;
+}
+
+#status {
+    color:#f00;
+    font-weight:bold;
+}
+
+ul 
+{ 
+    width:500px; 
+    margin:0 auto; 
+    padding:0px; 
+    list-style:none; 
+    text-align:center; 
+}
+
+span
+{ 
+    display:inline; 
+    font-size:75px; 
+    text-align:center; 
+    font-family: Arial; 
+}
+
+

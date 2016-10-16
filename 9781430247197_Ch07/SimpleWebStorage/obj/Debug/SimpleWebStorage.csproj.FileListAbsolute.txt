@@ -1,0 +1,4 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch07\SimpleWebStorage\bin\SimpleWebStorage.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch07\SimpleWebStorage\bin\SimpleWebStorage.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch07\SimpleWebStorage\obj\Debug\SimpleWebStorage.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch07\SimpleWebStorage\obj\Debug\SimpleWebStorage.pdb

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ChartDbModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="ChartDbEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="ChartDetails" EntityType="ChartDbModel.ChartDetail" />
+    <EntitySet Name="ChartMasters" EntityType="ChartDbModel.ChartMaster" />
+  </EntityContainer>
+  <EntityType Name="ChartDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="SectorName" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="SectorValue" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="SectorColor" Type="String" MaxLength="10" Unicode="true" FixedLength="true" />
+    <Property Name="ChartId" Type="Guid" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ChartMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Guid" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="50" Unicode="true" FixedLength="false" />
+    <Property Name="ImageUrl" Type="String" MaxLength="250" Unicode="true" FixedLength="false" />
+    <Property Name="DateCreated" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

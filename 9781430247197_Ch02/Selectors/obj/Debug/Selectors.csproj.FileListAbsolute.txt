@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter02\Selectors\bin\Selectors.dll
+C:\Bipin\HTML5 Programming\Chapter02\Selectors\bin\Selectors.pdb
+C:\Bipin\HTML5 Programming\Chapter02\Selectors\obj\Debug\Selectors.dll
+C:\Bipin\HTML5 Programming\Chapter02\Selectors\obj\Debug\Selectors.pdb
+C:\Bipin\HTML5 Programming\Chapter02\Selectors\obj\Debug\Selectors.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\Selectors\bin\Selectors.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\Selectors\bin\Selectors.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\Selectors\obj\Debug\Selectors.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch02\Selectors\obj\Debug\Selectors.pdb

@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter04\Shadow\bin\SpecialEffects.dll
+C:\Bipin\HTML5 Programming\Chapter04\Shadow\bin\SpecialEffects.pdb
+C:\Bipin\HTML5 Programming\Chapter04\Shadow\obj\Debug\SpecialEffects.dll
+C:\Bipin\HTML5 Programming\Chapter04\Shadow\obj\Debug\SpecialEffects.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\Shadow\bin\SpecialEffects.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\Shadow\bin\SpecialEffects.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\Shadow\obj\Debug\SpecialEffects.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\Shadow\obj\Debug\SpecialEffects.pdb

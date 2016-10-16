@@ -1,0 +1,5 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\WebSockets\bin\WebSocketDemo.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\WebSockets\bin\WebSocketDemo.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\WebSockets\bin\Microsoft.WebSockets.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\WebSockets\obj\Debug\WebSocketDemo.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\WebSockets\obj\Debug\WebSocketDemo.pdb

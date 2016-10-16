@@ -1,0 +1,5 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\bin\BasicOfflineApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\bin\BasicOfflineApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\BasicOfflineApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\BasicOfflineApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch08\BasicOfflineApp\obj\Debug\BasicOfflineApp.csprojResolveAssemblyReference.cache

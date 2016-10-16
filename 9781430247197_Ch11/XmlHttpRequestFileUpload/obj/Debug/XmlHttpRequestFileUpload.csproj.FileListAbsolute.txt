@@ -1,0 +1,4 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\XmlHttpRequestFileUpload.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\bin\XmlHttpRequestFileUpload.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\obj\Debug\XmlHttpRequestFileUpload.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\XmlHttpRequestFileUpload\obj\Debug\XmlHttpRequestFileUpload.pdb

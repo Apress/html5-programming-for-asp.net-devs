@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter05\BasicWebFormApp\bin\BasicWebFormApp.dll
+C:\Bipin\HTML5 Programming\Chapter05\BasicWebFormApp\bin\BasicWebFormApp.pdb
+C:\Bipin\HTML5 Programming\Chapter05\BasicWebFormApp\obj\Debug\BasicWebFormApp.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter05\BasicWebFormApp\obj\Debug\BasicWebFormApp.dll
+C:\Bipin\HTML5 Programming\Chapter05\BasicWebFormApp\obj\Debug\BasicWebFormApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch05\BasicWebFormApp\bin\BasicWebFormApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch05\BasicWebFormApp\bin\BasicWebFormApp.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch05\BasicWebFormApp\obj\Debug\BasicWebFormApp.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch05\BasicWebFormApp\obj\Debug\BasicWebFormApp.pdb

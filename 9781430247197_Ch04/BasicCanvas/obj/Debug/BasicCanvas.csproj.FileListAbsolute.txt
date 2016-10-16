@@ -1,0 +1,9 @@
+C:\Bipin\HTML5 Programming\Chapter04\BasicCanvas\bin\BasicCanvas.dll
+C:\Bipin\HTML5 Programming\Chapter04\BasicCanvas\bin\BasicCanvas.pdb
+C:\Bipin\HTML5 Programming\Chapter04\BasicCanvas\obj\Debug\BasicCanvas.csprojResolveAssemblyReference.cache
+C:\Bipin\HTML5 Programming\Chapter04\BasicCanvas\obj\Debug\BasicCanvas.dll
+C:\Bipin\HTML5 Programming\Chapter04\BasicCanvas\obj\Debug\BasicCanvas.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\BasicCanvas\bin\BasicCanvas.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\BasicCanvas\bin\BasicCanvas.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\BasicCanvas\obj\Debug\BasicCanvas.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\BasicCanvas\obj\Debug\BasicCanvas.pdb

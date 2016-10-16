@@ -1,0 +1,8 @@
+C:\Bipin\HTML5 Programming\Chapter04\DrawImage\bin\DrawImage.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawImage\bin\DrawImage.pdb
+C:\Bipin\HTML5 Programming\Chapter04\DrawImage\obj\Debug\DrawImage.dll
+C:\Bipin\HTML5 Programming\Chapter04\DrawImage\obj\Debug\DrawImage.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawImage\bin\DrawImage.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawImage\bin\DrawImage.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawImage\obj\Debug\DrawImage.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch04\DrawImage\obj\Debug\DrawImage.pdb

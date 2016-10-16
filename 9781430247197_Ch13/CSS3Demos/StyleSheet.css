@@ -1,0 +1,145 @@
+﻿@font-face
+{
+font-family: MyWebFont;
+src: url('Fonts/Magenta_BBT-webfont.ttf'),
+     url('Fonts/Magenta_BBT-webfont.eot'),
+     url('Fonts/Magenta_BBT-webfont.svg'),
+     url('Fonts/Magenta_BBT-webfont.woff'); 
+}
+
+h1 {
+    font-family: 'MyWebFont';
+    font-size:40px;
+    text-align:center;
+}
+
+h2 {
+    font-family:'Peralta';
+    font-size:20px;
+    text-align:center;
+}
+
+.boxRoundedCorders {
+    padding:15px;
+    background-color:#d0bdbd;
+    border: 2px solid #071394;
+    border-radius: 25px 25px 25px 25px;
+}
+
+.boxRoundedCorders2 {
+    padding:15px;
+    background-color:#d0bdbd;
+    border: 2px solid #071394;
+    border-top-left-radius: 25px 15px;
+    border-top-right-radius: 25px 15px;
+    border-bottom-left-radius: 50px 40px;
+    border-bottom-right-radius: 50px 40px;
+}
+
+.shadow {
+    padding:15px;
+    background-color:#d0bdbd;
+    border: 2px solid #071394;
+    border-radius: 25px 25px 25px 25px;
+    box-shadow: 10px 10px 10px #808080 inset;
+    text-shadow: 2px 2px 2px #808080;
+}
+
+.imageBackground {
+    padding:15px;
+    font-size:20px;
+    border: 2px solid #071394;
+    border-radius: 25px 25px 25px 25px;
+    background-image: url('images/RedFlower.png'), url('images/BlueFlower.png');
+    background-position: left top, right bottom;
+    background-repeat: no-repeat, no-repeat;
+    height:300px;
+}
+
+.linearGradient {
+    padding:15px;
+    background-color:#d0bdbd;
+    border: 2px solid #071394;
+    background: -moz-linear-gradient(left, yellow, white);
+    background: -webkit-linear-gradient(85deg, blue, white);
+    background: -o-linear-gradient(left, orange, yellow, white);
+
+}
+
+.radialGradient {
+    padding:15px;
+    background-color:#d0bdbd;
+    border: 2px solid #071394;
+    background: -moz-radial-gradient(circle, yellow, white);
+    background: -webkit-radial-gradient(circle, yellow, white);
+    background: -o-radial-gradient(circle, orange, yellow, white);
+
+}
+
+.transparency {
+    padding:15px;
+    background-color:rgba(10,200,0,0.3);
+    border: 2px solid #071394;
+}
+
+.transparency2 {
+    padding:15px;
+    background-color:#ffd800;
+    opacity:0.75;
+    border: 2px solid #071394;
+}
+
+body {
+    /*background-image:url(images/blueflower.png);*/
+}
+
+.employeeData {
+    padding:15px;
+    background-color:#f3f3f3;
+    border: 2px solid #071394;
+    -moz-transition: color 3s,background-color 3s;
+    -webkit-transition: color 3s,background-color 3s;
+    -o-transition: color 3s,background-color 3s;
+}
+
+.employeeData:hover {
+    color:#682020;
+    background-color:#ff6a00;
+    font-weight:bold;
+}
+
+.rotate {
+    padding:15px;
+    margin:20px;
+    background-color:#f3f3f3;
+    border: 2px solid #071394;
+    -ms-transform:rotate(5deg);
+    -moz-transform:rotate(10deg);
+    -webkit-transform:rotate(10deg);
+    -o-transform:rotate(10deg);
+}
+
+.skew {
+    padding:15px;
+    margin:20px;
+    background-color:#f3f3f3;
+    border: 2px solid #071394;
+    -ms-transform:skew(10deg) scale(0.9);
+    -moz-transform:skew(10deg) scale(0.9);
+    -webkit-transform:skew(-10deg) scale(1.5);
+    -o-transform:skew(10deg) scale(0.9);
+}
+
+.myclass {
+    -moz-transition: all 3s;
+    -webkit-transition: all 3s;
+    -o-transition: all 3s;
+}
+
+.myclass:hover {
+    -ms-transform:rotate(10deg);
+    -moz-transform:rotate(10deg);
+    -webkit-transform:rotate(10deg);
+    -o-transform:rotate(10deg);
+}
+

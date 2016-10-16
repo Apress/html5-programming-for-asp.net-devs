@@ -1,0 +1,4 @@
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\ServerSentEvents\bin\ServerSentEvents.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\ServerSentEvents\bin\ServerSentEvents.pdb
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\ServerSentEvents\obj\Debug\ServerSentEvents.dll
+C:\Bipin\HTML5 Programming\9781430247197_Ch11\ServerSentEvents\obj\Debug\ServerSentEvents.pdb
